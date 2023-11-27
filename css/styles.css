@@ -104,5 +104,7 @@ address {
 /* FOOTER */
 footer {
     background-color: #2e2f42;
+}
+.logo-span-footer {
     color: #f4f4fd;
 }
