@@ -98,3 +98,6 @@ address {
     text-transform: capitalize;
     color: #2e2f42;
 }
+.team-item {
+    background-color: #fff;
+}
