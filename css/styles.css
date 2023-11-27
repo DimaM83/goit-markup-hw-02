@@ -31,7 +31,7 @@ li {
 .logo-span {
     color: #2e2f42;
 }
-
+/* Navigations */
 .active {
     font-weight: 500;
     letter-spacing: 0.02em;
@@ -42,4 +42,8 @@ li {
 }
 a:hover, button:hover, a:focus, button:focus {
     color: #404bbf;
+}
+/* Address */
+address {
+    font-style: normal;
 }
