@@ -47,3 +47,7 @@ a:hover, button:hover, a:focus, button:focus {
 address {
     font-style: normal;
 }
+.mail {
+    letter-spacing: 0.02em;
+    color: #434455;
+}
