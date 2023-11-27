@@ -71,9 +71,9 @@ address {
     color: #fff;
     cursor: pointer;
 }
-a:hover, button:hover, a:focus, button:focus {
+/* a:hover, button:hover, a:focus, button:focus {
     color: #404bbf;
 }
 .promo .btn.hover, .promo .btn:focus {
 background-color:  #404bbf;
-}
+} */
