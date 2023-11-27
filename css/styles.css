@@ -30,6 +30,7 @@ li {
 }
 .logo-span {
     color: #2e2f42;
+
 }
 /* Navigations */
 .active {
@@ -42,6 +43,8 @@ li {
 }
 a:hover, button:hover, a:focus, button:focus {
     color: #404bbf;
+
+
 }
 /* Address */
 address {
@@ -50,4 +53,12 @@ address {
 .mail {
     letter-spacing: 0.02em;
     color: #434455;
+}
+/* Title */
+.item-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
