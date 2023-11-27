@@ -77,3 +77,9 @@ address {
 .promo .btn.hover, .promo .btn:focus {
 background-color:  #404bbf;
 } */
+.btn:hover {
+    background-color: #404bbf;
+}
+.btn:focus {
+    background-color: #404bbf;
+}
