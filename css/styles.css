@@ -54,7 +54,7 @@ address {
     letter-spacing: 0.02em;
     color: #434455;
 }
-/* h1 */
+/* PROMO Section 1 */
 .promo-title {
     font-size: 56px;
     line-height: 1.07;
@@ -71,15 +71,20 @@ address {
     color: #fff;
     cursor: pointer;
 }
-/* a:hover, button:hover, a:focus, button:focus {
-    color: #404bbf;
-}
-.promo .btn.hover, .promo .btn:focus {
-background-color:  #404bbf;
-} */
 .btn:hover {
     background-color: #404bbf;
 }
 .btn:focus {
     background-color: #404bbf;
+}
+ /* PECULIARITTES Section 2 */
+.item-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.item-description {
+    letter-spacing: 0.02em;
 }
